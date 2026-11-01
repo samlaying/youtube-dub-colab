@@ -1,0 +1,2 @@
+# Only what the wrapper itself needs; GPT-SoVITS provides torch and the TTS stack.
+soundfile>=0.12.0
